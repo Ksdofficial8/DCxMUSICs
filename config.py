@@ -42,12 +42,12 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 999999))
 
 # Chat id of a group for logging bot's activities
 
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002067001953))
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
 # Get this value @MissRose_bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7001982096))
+OWNER_ID = int(getenv("OWNER_ID", 6256542475))
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
@@ -61,7 +61,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/vicky0604hello/DCxMUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ksdofficial8/DCxMUSICs")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
@@ -75,10 +75,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_DC_BOTS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Ksd_hacking")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_DC_BOTS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/jee_chat2024")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 

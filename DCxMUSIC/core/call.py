@@ -1,7 +1,7 @@
 
-# Copyright (C) 2024 by 𓆩𔘓𓆪 𝐕⊶𝐈⊶𝐊⊶𝐑⊶𝐀⊶𝐍⊶𝐓 𓆩𔘓𓆪 Github-@vicky0604hello, 
-# < https://github.com/vicky0404hello >.
-# <https://github.com/vicky0604hello/DCxMUSIC >
+# Copyright (C) 2024 by ꧁•⊹٭𝙺𝚂𝙳٭⊹•꧂ Github-@ksdofficial8, 
+# < https://github.com/koushals8 >.
+# <https://github.com/koushals8/DCxMUSICs >
 # All rights reserved.
 
 import asyncio
